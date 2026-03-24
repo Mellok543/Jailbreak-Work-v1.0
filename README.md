@@ -143,7 +143,7 @@ css_vip_adduser <steamid or accountid> <vipgroup> <time or 0 permanently>
     "VipItemName": "VIP на 30 дней",
     "VipCost": 5000,
     "VipGroup": "gold",
-    "VipDuration": "30d"
+    "VipDuration": "30"
   }
 }
 ```
